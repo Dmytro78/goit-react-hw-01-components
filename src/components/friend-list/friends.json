@@ -1,0 +1,32 @@
+[
+  {
+    "avatar": "https://www.flaticon.com/premium-icon/chef_5452928?related_id=5452928&origin=pack",
+    "name": "Mango",
+    "isOnline": true,
+    "id": 1812
+  },
+  {
+    "avatar": "https://www.flaticon.com/free-icon/teacher_1995574?term=woman%20job&page=1&position=23&page=1&position=23&related_id=1995574&origin=search",
+    "name": "Kiwi",
+    "isOnline": false,
+    "id": 1137
+  },
+  {
+    "avatar": "https://www.flaticon.com/premium-icon/police_5455997?related_id=5455997&origin=pack",
+    "name": "Ajax",
+    "isOnline": true,
+    "id": 1213
+  },
+  {
+    "avatar": "https://www.flaticon.com/premium-icon/surgeon_5456005?related_id=5456005&origin=pack",
+    "name": "Jay",
+    "isOnline": true,
+    "id": 1714
+  },
+  {
+    "avatar": "https://www.flaticon.com/free-icon/news-report_4291327?term=woman%20job&page=1&position=39&page=1&position=39&related_id=4291327&origin=search",
+    "name": "Poly",
+    "isOnline": false,
+    "id": 1284
+  }
+]
